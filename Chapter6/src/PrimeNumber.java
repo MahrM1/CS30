@@ -11,9 +11,6 @@ public class PrimeNumber {
 
 	private JFrame frame;
 
-	/**
-	 * Launch the application.
-	 */
 	public boolean isprime(int x) 
 	{
 		if ((x %2) !=0) 
