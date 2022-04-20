@@ -8,7 +8,7 @@ public class MyFile_part1of2
 	
 		if (textFile.exists()) 
 		{
-			System.out.println("File already exists. ");
+			System.out.println("File exists. ");
 		}		
 		else 
 		{
