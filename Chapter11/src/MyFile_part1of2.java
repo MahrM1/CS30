@@ -4,7 +4,7 @@ public class MyFile_part1of2
 {
 	public static void main(String[] args) 
 	{
-		File textFile = new File("C:/Chapter11/test file.txt");
+		File textFile = new File("C:/Chapter11/test file.txt"); 
 	
 		if (textFile.exists()) 
 		{
